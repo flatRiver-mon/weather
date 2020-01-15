@@ -1,2 +1,2 @@
 # weather
- 날씨 알림 앱
+openweathermap api를 사용하여 제작한 앱
