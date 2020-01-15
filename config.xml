@@ -2,7 +2,7 @@
 <widget id="com.weather.pyungkangkim" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>웨더리포트</name>
     <description>
-        openweathermap을 사용하여 만든 
+        openweathermap api를 사용하여 제작한 앱
     </description>
     <author email="kpk0416@gmail.com" href="http://kpk0416.dothome.co.kr/login">
         Pyungkang Kim
