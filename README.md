@@ -3,7 +3,7 @@ openweathermap api를 사용하여 제작한 앱
 
 ## 사용법
 * 웨더리포트는 HTML,CSS,jQuery,ajax를 사용했습니다. 웹사이트 접속은 [이곳으로](http://kpk0416.dothome.co.kr/weather)
-* 다운로드는 [여기](#)
+* 다운로드는 [여기](https://github.com/flatRiver-mon/weather/raw/master/weather.apk)
 
 ## 개요
 * openweathermap api를 사용하여 현 시간대부터 일주일간의 날씨변화를 확인할 수 있습니다.
